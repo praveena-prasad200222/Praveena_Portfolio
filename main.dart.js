@@ -20374,7 +20374,7 @@ return A.R($async$OX,r)},
 adT(){var s=0,r=A.S(t.H),q
 var $async$adT=A.T(function(a,b){if(a===1)return A.P(b,r)
 while(true)switch(s){case 0:q=document.createElement("a")
-q.href="https://github.com/praveena-prasad200222/Praveena_portfolio/blob/main/assets/assets/praveenaresume.pdf"
+q.href="https://raw.githubusercontent.com/praveena-prasad200222/Praveena_portfolio/main/assets/assets/praveenaresume.pdf"
 q.setAttribute("download","Praveena_Resume.pdf")
 q.click()
 return A.Q(null,r)}})
